@@ -801,16 +801,23 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   .work .desc {
     opacity: 1;
-    background: rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.7);
   }
   .work .desc h3 {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    font-weight: bold;
   }
   .work .desc span {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    font-weight: bold;
+    color: #000;
   }
+  .downloadbtn a {
+    border-color: #000;
+    background: #fff;
+}
 }
 .work:hover .desc {
   opacity: 1;
