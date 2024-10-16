@@ -17,6 +17,7 @@
     <meta name="twitter:image" content="" />
     <meta name="twitter:url" content="" />
     <meta name="twitter:card" content="" />
+    <link rel="icon" type="image/x-icon" href="/images/kay-thi-lwin.jfif">
 
     <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
@@ -320,7 +321,7 @@
             <div class="container">
                 <div class="row animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                        <h2>Work</h2>
+                        <h2>Projects</h2>
                     </div>
                 </div>
                 <div class="row">
